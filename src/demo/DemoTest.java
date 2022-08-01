@@ -6,4 +6,9 @@ public class DemoTest {
 		System.out.println("Test");
 	}
 
+	
+	public static void sum(int a, int b) {
+		int c = a+b;
+		System.out.println("Sum: "+a+" + "+b+"= "+c);
+	}
 }
