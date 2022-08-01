@@ -16,4 +16,5 @@ public class DemoTest {
 	public static void subtract(int a, int b) {
 		int c = a-b;
 		System.out.println("Sum: "+ a +" - "+ b +"= " +c);
+	}
 }
